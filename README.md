@@ -1,0 +1,3 @@
+NAMA  : ANDIKA KURTIAN MARDANI
+NIM   : 32602400072
+MATKUL: Pemrograman Berorientasi Objek
